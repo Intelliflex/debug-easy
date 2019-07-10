@@ -1,5 +1,6 @@
 # debug-easy
-Debug-easy makes it easy to log colorful and meaningful debug messages to your browser console, without the residual mess associated with console.log. Debug messages may be set for individual modules that you are working on and may also be enabled or disabled for specific modules. Debug messages may also be enabled or disabled in a single command for your entire application.
+Debug-easy makes it easy to log colorful and meaningful debug messages to your browser console, without the residual mess associated with console.log. Debug messages may be set for individual modules that you are working on and may also be enabled or disabled for each module. Debug messages may also be enabled or disabled using a single command for your entire application.
+
 
 ![Screenshot](/screenshot.jpg)
 
