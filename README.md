@@ -7,7 +7,7 @@ To use package, simply install
 
 npm i debug-easy
 
-Getting Started 
+<b>Getting Started </b>
 
 import debug from 'debug-easy'
 debug.sample()
