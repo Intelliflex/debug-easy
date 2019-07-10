@@ -3,7 +3,7 @@ Simplified Console Logging for Debugging
 
 ![Screenshot](/screenshot.jpg)
 
-To use package, simply install
+To use package, simply install using
 
 npm i debug-easy
 
