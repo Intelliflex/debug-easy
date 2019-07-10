@@ -9,5 +9,5 @@ npm i debug-easy
 
 <b>Getting Started </b>
 
-import debug from 'debug-easy'
+import debug from 'debug-easy'<br/>
 debug.sample()
