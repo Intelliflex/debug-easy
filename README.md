@@ -12,7 +12,7 @@ Debug-easy has been enhanced from it's preliminary release making it easy to use
 
 <b>debug.heading</b> ('Your Heading Title,module,color,background-color, 2nd gradient color, force)
 
-Apart from beutifying console output, making it easier to debug your applications, or provide meaningful data for advanced users, debugging can be turned off with a single command, <b>debug.off()</b> or can be disabled for individual modules.
+Apart from beautifying console output, making it easier to debug your applications, or provide meaningful data for advanced users, debugging can be turned off with a single command, <b>debug.off()</b> or can be disabled for individual modules.
 
 <b>INSTALLATION</b>
 npm install --save debug-easy
